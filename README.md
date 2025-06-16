@@ -57,6 +57,9 @@ La app genera el código CSS y HTML basado en la configuración actual, que pued
 - Cada selección es un área rectangular con filas y columnas de inicio y fin.
 - Estas áreas se visualizan y el código se actualiza automáticamente.
 
+## 📬 Contribuciones
+- ¡Contribuciones bienvenidas! Si tienes sugerencias, mejoras o bugs, abre un issue o pull request.
+- considera dejar tu Star ⭐⭐⭐
 ---
 
 ## 🔧 Instalación y ejecución
@@ -72,5 +75,3 @@ npm install
 # Corre la app
 npm start
 
-## 📬 Contribuciones
-- ¡Contribuciones bienvenidas! Si tienes sugerencias, mejoras o bugs, abre un issue o pull request.
